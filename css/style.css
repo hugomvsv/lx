@@ -1276,7 +1276,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-blocks-cover-1 .ftco-service-image-1 {
   margin-top: -70px;
-  position: static; }
+  position: relative; }
 
 .ftco-cover-1 {
   background-size: cover;
@@ -1284,7 +1284,7 @@ h1, h2, h3, h4, h5,
   background-repeat: no-repeat; }
   .ftco-cover-1,
   .ftco-cover-1 .container > .row {
-    height: 100vh;
+    height: 60vh;
     min-height: 600px; }
   .ftco-cover-1 > .container {
     position: relative; }
